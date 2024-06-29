@@ -11,7 +11,10 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
   <a href="https://github.com/Jamshedali18?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jamshedali18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
-  <img alt="profile views" src="https://gpvc.arturio.dev/JamshedAli18" />
+   <span title="Profile views">
+    <i class="fas fa-eye"></i> &nbsp;
+    <img alt="profile views" src="https://gpvc.arturio.dev/JamshedAli18" />
+  </span>
 </p>
 
 ---
@@ -30,8 +33,8 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 <br />
 <br />
