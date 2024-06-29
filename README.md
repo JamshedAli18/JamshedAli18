@@ -10,10 +10,10 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
       <a href="https://github.com/Jamshedali18?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jamshedali18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
      </p>
-
+![Profile views](https://gpvc.arturio.dev/JamshedAli18)
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
