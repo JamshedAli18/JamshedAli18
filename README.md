@@ -49,5 +49,3 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
 ---
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=radical"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JamshedAli18&limit=5&theme=dark&combine_all_yearly_contributions=true)
