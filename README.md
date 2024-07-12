@@ -1,6 +1,6 @@
 # 🏄‍♂️ Jamshed Ali
 
-**`Data Scientist (ML/DL/Python, TensorFlow, PyTorch)`**
+**`Data Scientist (ML/DL/Python, Scikit-learn , TensorFlow)`**
 
 I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep Learning (DL). I transform complex data into actionable insights using Python, TensorFlow, and PyTorch. Dedicated to pushing the boundaries of AI technology, I create innovative solutions that make an impact. Explore my repositories for my latest projects and reach out for collaboration opportunities!
 
