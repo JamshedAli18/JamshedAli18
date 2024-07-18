@@ -40,7 +40,7 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
 
 ---
 
-# 🚀 GitHub Stats:
+#  📈📉  GitHub Stats:
 
 <table>
   <tr>
