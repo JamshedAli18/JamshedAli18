@@ -35,12 +35,12 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
 
 # 🚀 GitHub Stats:
 
-
-<!--   <tr> -->
-<!--     <td><img src="https://github-readme-stats.vercel.app/api?username=JamshedAli18&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" /></td> -->
-<!--     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JamshedAli18&theme=github_dark&hide_border=false" /></td> -->
-<!--   </tr> -->
-<!-- </table> -->
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=JamshedAli18&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JamshedAli18&theme=github_dark&hide_border=false" /></td>
+  </tr>
+</table>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JamshedAli18&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
