@@ -49,4 +49,4 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
   </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JamshedAli18&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamshedAli18&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
