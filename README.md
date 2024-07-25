@@ -37,7 +37,7 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
 
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&bg_color=0D1117&title_color=2E8B57&text_color=2E8B57&icon_color=2E8B57&line_color=2E8B57"/>
+
 
 ---
 
