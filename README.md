@@ -11,6 +11,9 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
   <a href="https://github.com/Jamshedali18?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jamshedali18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
+  
+  [![Kaggle Profile](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jamsheddf)
+
 </p>
 
 ---
