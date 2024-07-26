@@ -5,6 +5,9 @@
 I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep Learning (DL). I transform complex data into actionable insights using Python, scikit-learn , TensorFlow, and PyTorch. Dedicated to pushing the boundaries of AI technology, I create innovative solutions that make an impact. Explore my repositories for my latest projects and reach out for collaboration opportunities!
 
 <p align="left">
+   
+  <a> [![Kaggle Profile](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jamsheddf) </a>
+
   <a href="https://github.com/Jamshedali18?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jamshedali18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
@@ -12,7 +15,6 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jamshedali18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
   
-  <a> [![Kaggle Profile](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jamsheddf) </a>
 
 </p>
 
