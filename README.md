@@ -14,7 +14,9 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
 <a href="https://www.kaggle.com/jamsheddf">
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Profile"/>
 </a>
-
+<a href="https://www.linkedin.com/in/jamshed-ali-559641255">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
 
 ---
 
