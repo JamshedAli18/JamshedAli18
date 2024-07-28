@@ -20,7 +20,7 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
 
 ---
 
-## 🧰 Languages and Tools
+## 🧰 Languages and Frameworks
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
@@ -46,7 +46,7 @@ I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep L
 
 ---
 
-#  📈📉  GitHub Stats:
+#  📈  GitHub Stats:
 
 <table>
   <tr>
