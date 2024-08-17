@@ -2,7 +2,7 @@
 
 **`Data Scientist (Focused on Machine Learning & Deep Learning)`**
 
-I'm a passionate Data Scientist specializing in Machine Learning (ML) and Deep Learning (DL). I transform complex data into actionable insights using Python, scikit-learn , TensorFlow, and PyTorch. Dedicated to pushing the boundaries of AI technology, I create innovative solutions that make an impact. Explore my repositories for my latest projects and reach out for collaboration opportunities!
+Emerging Data Scientist with expertise in Machine Learning and Deep Learning, backed by a strong Software Engineering foundation. Skilled in transforming data into actionable insights and driving innovation. Seeking opportunities to contribute to impactful, data-driven projects. Let’s connect to explore potential collaborations.
 
 
 <a href="https://github.com/Jamshedali18?tab=followers">
