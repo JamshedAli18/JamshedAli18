@@ -43,6 +43,10 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=dark"/>
 
+## 💫 Top Repositories:
+<a href="https://github.com/JamshedAli18/NASA-Nearest-Earth-Objects-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=NASA-Nearest-Earth-Objects-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+---
 
 ---
 
