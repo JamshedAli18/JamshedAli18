@@ -56,9 +56,9 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
 ---
 
 
-# 📈 GitHub Stats:
+<!-- # 📈 GitHub Stats:
 
-<table>
+  <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=JamshedAli18&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JamshedAli18&theme=github_dark&hide_border=false" /></td>
@@ -69,7 +69,7 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamshedAli18&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
- ![Jamshed Ali's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JamshedAli18&custom_title=Jamshed%20Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2E8B57&line=2E8B57&point=2E8B57&area_color=FFFFFF&title_color=2E8B57&area=true) -->
+<!--  ![Jamshed Ali's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JamshedAli18&custom_title=Jamshed%20Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2E8B57&line=2E8B57&point=2E8B57&area_color=FFFFFF&title_color=2E8B57&area=true) -->
 
 
 
