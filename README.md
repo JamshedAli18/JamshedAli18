@@ -56,7 +56,7 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
 ---
 
 
-<!-- # 📈 GitHub Stats:
+ # 📈 GitHub Stats:
 
   <table>
   <tr>
