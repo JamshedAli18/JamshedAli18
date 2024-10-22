@@ -1,4 +1,4 @@
- # 🏄‍♂️ Jamshed Ali
+# 🏄‍♂️ Jamshed Ali
 
 **`Data Scientist (Focused on Machine Learning & Deep Learning)`**
 
