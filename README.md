@@ -1,5 +1,5 @@
 # 🏄‍♂️ Jamshed Ali 
-
+ 
 **`Data Scientist (Focused on Machine Learning & Deep Learning)`**
 
 Emerging Data Scientist with expertise in Machine Learning and Deep Learning, backed by a strong Software Engineering  foundation. Skilled in transforming data into actionable insights and driving innovation.
