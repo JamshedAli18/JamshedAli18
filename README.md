@@ -3,7 +3,7 @@
 **`Data Scientist (Focused on Machine Learning & Deep Learning)`**
 
 Emerging Data Scientist with expertise in Machine Learning and Deep Learning, backed by a strong Software Engineering  foundation. Skilled in transforming data into actionable insights and driving innovation. 
-
+ 
  
 <a href="https://github.com/Jamshedali18?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jamshedali18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
