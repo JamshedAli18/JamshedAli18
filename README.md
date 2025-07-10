@@ -40,16 +40,6 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
 
 ---
 
-## 🌟 Featured Project
-
-<div align="center" style="margin: 2em 0; padding: 1.5em; border-radius: 1em; border: 2px solid #6c63ff; background: #f9f9ff;">
-
-<a href="https://github.com/JamshedAli18/Real-Time-Twitter-Sentiment-Monitor-using-NLP" target="_blank" style="text-decoration:none;">
-  <h2 style="color:#6c63ff; font-weight:bold;">🚀 Twitter Tweets Sentiment Analysis</h2>
-  <img src="https://img.shields.io/badge/Open%20Project-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Open Project"/>
-</a>
-
-</div>
 
 
 ---
@@ -57,8 +47,7 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
 
 
 
-<!-----
-## 💫 Top Repositories:
+##  Top Repositories:
 
 <a href="https://github.com/JamshedAli18/NASA-Nearest-Earth-Objects-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=NASA-Nearest-Earth-Objects-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> &nbsp;&nbsp;
 <a href="https://github.com/JamshedAli18/Energy-Consumption-Regression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=Energy-Consumption-Regression&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
