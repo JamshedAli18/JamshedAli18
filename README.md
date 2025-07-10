@@ -43,9 +43,9 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
 
 
 ---
-<!--> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=dark"/>-->
+<!--> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=dark"/> -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=dark&t=20250710"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=orange_dark&t=20250710"/>
 
 
 
