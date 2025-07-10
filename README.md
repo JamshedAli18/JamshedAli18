@@ -39,19 +39,17 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
 <br />
 
 ---
->## 🌟 Featured Project
+
+## 🌟 Featured Project
 
 <div align="center" style="margin: 2em 0; padding: 1.5em; border-radius: 1em; border: 2px solid #6c63ff; background: #f9f9ff;">
 
-<a href="[https://github.com/JamshedAli18/project-repo](https://github.com/JamshedAli18/project-repo](https://github.com/JamshedAli18/Real-Time-Twitter-Sentiment-Monitor-using-NLP)" target="_blank" style="text-decoration:none;">
-  <h2 style="color:#6c63ff; font-weight:bold;">🚀 Real-Time-Twitter-Sentiment-Monitor-using-NLP</h2>
-  <p style="font-size:1.1em; color:#363636;"><b>Elegant, fast, and beautifully crafted.</b></p>
+<a href="https://github.com/JamshedAli18/Real-Time-Twitter-Sentiment-Monitor-using-NLP" target="_blank" style="text-decoration:none;">
+  <h2 style="color:#6c63ff; font-weight:bold;">🚀 Twitter Tweets Sentiment Analysis</h2>
   <img src="https://img.shields.io/badge/Open%20Project-6c63ff?style=for-the-badge&logo=github&logoColor=white" alt="Open Project"/>
 </a>
 
 </div>
-
-
 
 
 ---
