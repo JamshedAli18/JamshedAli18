@@ -50,7 +50,7 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
 
 ##  Top Repositories:
 
-<a href="https://github.com/JamshedAli18/Named-Entity-Recognition-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=Named-Entity-Recognition-System&repo-description = web-based NER built with python and streamlit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> &nbsp;&nbsp;
+<a href="https://github.com/JamshedAli18/Named-Entity-Recognition-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=Named-Entity-Recognition-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> &nbsp;&nbsp;
 
 
 ---
