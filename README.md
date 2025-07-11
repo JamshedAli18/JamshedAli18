@@ -50,7 +50,7 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
 
 ##  Top Repositories:
 
-<a href="https://github.com/JamshedAli18/NASA-Nearest-Earth-Objects-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=NASA-Nearest-Earth-Objects-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> &nbsp;&nbsp;
+<a href="https://github.com/JamshedAli18/Named-Entity-Recognition-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=NASA-Nearest-Earth-Objects-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a> &nbsp;&nbsp;
 <a href="https://github.com/JamshedAli18/Energy-Consumption-Regression"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=Energy-Consumption-Regression&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 ---
