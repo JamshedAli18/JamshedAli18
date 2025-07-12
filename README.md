@@ -55,9 +55,19 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=Named-Entity-Recognition-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&description=Advanced%20NLP%20system%20for%20identifying%20and%20classifying%20named%20entities%20in%20text%20data%20with%20high%20accuracy." />
   </a>
 
-  <a href="https://github.com/JamshedAli18/semantic-question">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=semantic-question-Prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&description=Advanced%20NLP%20system%20for%20identifying%20and%20classifying%20named%20entities%20in%20text%20data%20with%20high%20accuracy." />
+
+
+
+
+
+  <div align="center">
+  <a href="https://github.com/JamshedAli18/Named-Entity-Recognition-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=Named-Entity-Recognition-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&description=Advanced%20NLP%20system%20for%20identifying%20and%20classifying%20named%20entities%20in%20text%20data%20with%20high%20accuracy." />
   </a>
+  <a href="https://github.com/JamshedAli18/semantic-question">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=semantic-question&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&description=Question%20answering%20system%20using%20semantic%20analysis%20to%20provide%20accurate%20responses%20based%20on%20textual%20context." />
+  </a>
+</div>
 </div>
 
 
