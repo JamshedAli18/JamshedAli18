@@ -1,4 +1,4 @@
-# 🏄‍♂️ Jamshed Ali 
+#  Jamshed Ali 
   
 **`Data Scientist (Focused on Machine Learning & Deep Learning)`**
   
@@ -55,8 +55,8 @@ Emerging Data Scientist with expertise in Machine Learning and Deep Learning, ba
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=Named-Entity-Recognition-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&description=Advanced%20NLP%20system%20for%20identifying%20and%20classifying%20named%20entities%20in%20text%20data%20with%20high%20accuracy." />
   </a>
 
-  <a href="https://github.com/JamshedAli18/Named-Entity-Recognition-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=Named-Entity-Recognition-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&description=Advanced%20NLP%20system%20for%20identifying%20and%20classifying%20named%20entities%20in%20text%20data%20with%20high%20accuracy." />
+  <a href="https://github.com/JamshedAli18/semantic-question">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=semantic-question-Prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&description=Advanced%20NLP%20system%20for%20identifying%20and%20classifying%20named%20entities%20in%20text%20data%20with%20high%20accuracy." />
   </a>
 </div>
 
