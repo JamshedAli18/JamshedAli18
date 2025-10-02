@@ -1,9 +1,8 @@
 #  Jamshed Ali 
   
-**`Data Scientist (Focused on Machine Learning & Deep Learning)`**
+**`AI Engineer (Focused on Gen AI & And Agentic AI)`**
   
-Emerging Data Scientist with expertise in Machine Learning and Deep Learning, backed by a strong Software Engineering  foundation. Skilled in transforming data into actionable insights and driving innovation. 
- 
+An AI Engineer focused on Generative AI and Agentic AI, building intelligent systems that combine creativity with autonomous decision-making. I specialize in developing innovative AI solutions using modern frameworks and techniques.
  
 <a href="https://github.com/Jamshedali18?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jamshedali18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
