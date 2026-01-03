@@ -1,4 +1,4 @@
-#  Jamshed Ali 
+<!--#  Jamshed Ali 
   
 **`AI Engineer (Focused on Gen AI & And Agentic AI)`**
   
@@ -15,7 +15,35 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 </a>
 <a href="https://www.linkedin.com/in/jamshed-ali-559641255">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a> -->
+<div align="center">
+
+#  Jamshed Ali
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00F760&center=true&vCenter=true&width=600&lines=AI+Engineer;Generative+AI+%26+Agentic+AI+Specialist;Building+Intelligent+Systems" alt="Typing SVG" />
+
+###  About Me
+
+*An AI Engineer focused on **Generative AI** and **Agentic AI**, building intelligent systems that combine creativity with autonomous decision-making. I specialize in developing innovative AI solutions using modern frameworks and techniques.*
+
+---
+
+###  Connect With Me
+
+<a href="https://github.com/Jamshedali18?tab=followers">
+  <img alt="followers" src="https://img.shields.io/github/followers/Jamshedali18?style=flat-square&logo=github&label=Followers&color=00E676&labelColor=1a1a1a&logoColor=white"/>
 </a>
+<a href="https://github.com/Jamshedali18?tab=repositories&sort=stargazers">
+  <img alt="stars" src="https://img.shields.io/github/stars/Jamshedali18?style=flat-square&logo=github&label=Stars&color=4CAF50&labelColor=1a1a1a&logoColor=white"/>
+</a>
+<a href="https://www.kaggle.com/jamsheddf">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-00C853?style=flat-square&logo=Kaggle&logoColor=white&labelColor=1a1a1a" alt="Kaggle"/>
+</a>
+<a href="https://www.linkedin.com/in/jamshed-ali-559641255">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-66BB6A?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn"/>
+</a>
+
+</div>
 
 ---
 
