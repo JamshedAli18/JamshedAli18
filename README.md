@@ -66,11 +66,13 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=1&pause=99999&color=00F760&center=true&vCenter=true&width=940&lines=GitHub+Metrics" alt="Metrics Title" />
+
+![Metrics](./github-metrics.svg)
+  
 </div>
 
-<div align="center">
 ![Metrics](./github-metrics.svg)
-</div>
+
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=dark&t=20250710"/> -->
 
