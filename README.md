@@ -34,7 +34,7 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=00F760&center=true&vCenter=true&width=940&lines=AI+%26+Machine+Learning+Frameworks
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=00F760&center=true&vCenter=true&width=940&lines=AI+%26+Machine+Learning+Frameworks"alt="Title" />
 
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
   <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" />
