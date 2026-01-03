@@ -71,7 +71,7 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
   
 </div>
 
-![Metrics](./github-metrics.svg)
+
 
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=dark&t=20250710"/> -->
