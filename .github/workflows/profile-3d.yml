@@ -1,47 +1,26 @@
+
 name: GitHub-Profile-3D-Contrib
 
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+on: push
+  # schedule:
+  #   - cron: "0 */18 * * *"
+  # workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_3D_GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: 100
-          SETTING_JSON: |
-            {
-              "type": "normal",
-              "backgroundColor": "#0d1117",
-              "foregroundColor": "#00ff7f",
-              "strongColor": "#00c853",
-              "weakColor": "#1b5e20",
-              "radarColor": "#00e676",
-              "growingAnimation": true,
-              "contribColors": [
-                "#1b5e20",
-                "#2e7d32",
-                "#43a047",
-                "#66bb6a",
-                "#81c784",
-                "#a5d6a7",
-                "#c8e6c9",
-                "#00ff7f"
-              ]
-            }
+          MAX_REPOS: ${{ github.repository_count }}
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name jamshedali18
+          git config user.email solangijamshedali2003@gmail.com
           git add -A .
-          git commit -m "generated" || exit 0
+          git commit -m "Personal 3d Contributions images updated"
           git push
