@@ -21,7 +21,7 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 
 ## 🧰 Languages and Frameworks
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
@@ -32,7 +32,22 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> -->
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+  <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="48" height="48" />
+  <img src="https://www.anthropic.com/images/icons/safari-pinned-tab.svg" width="48" height="48" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,kubernetes&theme=dark" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,mongodb,postgres,redis&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda,linux&theme=dark" />
+</div>
 
 <br />
 <br />
