@@ -18,29 +18,25 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 </a> -->
 <div align="center">
 
-#  Jamshed Ali
+# Jamshed Ali
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00F760&center=true&vCenter=true&width=600&lines=AI+Engineer;Generative+AI+%26+Agentic+AI+Specialist;Building+Intelligent+Systems" alt="Typing SVG" />
+<span style="color:#00F760">**AI Engineer (Generative AI & Agentic AI)**</span>
 
-###  About Me
+### About Me
 
 *An AI Engineer focused on **Generative AI** and **Agentic AI**, building intelligent systems that combine creativity with autonomous decision-making. I specialize in developing innovative AI solutions using modern frameworks and techniques.*
 
----
-
-###  Connect With Me
-
 <a href="https://github.com/Jamshedali18?tab=followers">
-  <img alt="followers" src="https://img.shields.io/github/followers/Jamshedali18?style=flat-square&logo=github&label=Followers&color=00E676&labelColor=1a1a1a&logoColor=white"/>
+  <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/Jamshedali18?color=00E676&labelColor=00C853&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
 <a href="https://github.com/Jamshedali18?tab=repositories&sort=stargazers">
-  <img alt="stars" src="https://img.shields.io/github/stars/Jamshedali18?style=flat-square&logo=github&label=Stars&color=4CAF50&labelColor=1a1a1a&logoColor=white"/>
+  <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/Jamshedali18?color=4CAF50&style=for-the-badge&labelColor=2E7D32&logo=star&logoColor=white"/>
 </a>
 <a href="https://www.kaggle.com/jamsheddf">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-00C853?style=flat-square&logo=Kaggle&logoColor=white&labelColor=1a1a1a" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Kaggle-00C853?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 <a href="https://www.linkedin.com/in/jamshed-ali-559641255">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-66BB6A?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-66BB6A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
