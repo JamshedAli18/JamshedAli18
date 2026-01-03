@@ -84,7 +84,7 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=4CAF50&center=true&vCenter=true&width=940&lines=Isometric+view+of+contributions" alt="Subtitle" />
 </div>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
