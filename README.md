@@ -50,49 +50,33 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 </div>
 
 <br />
-<br />
 
 ---
-
-
-
----
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=dark&t=20250710"/>
-
-
-
-##  Top Repositories:
 
 <div align="center">
-  <a href="https://github.com/JamshedAli18/Named-Entity-Recognition-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=Named-Entity-Recognition-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&description=Advanced%20NLP%20system%20for%20identifying%20and%20classifying%20named%20entities%20in%20text%20data%20with%20high%20accuracy." />
-  </a>
-  <a href="https://github.com/JamshedAli18/semantic-question">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JamshedAli18&repo=Semantic-question&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&description=Question%20answering%20system%20using%20semantic%20analysis%20to%20provide%20accurate%20responses%20based%20on%20textual%20context." />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=1&pause=99999&color=00F760&center=true&vCenter=true&width=940&lines=GitHub+Contributions" alt="Title" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=4CAF50&center=true&vCenter=true&width=940&lines=Isometric+view+of+contributions" alt="Subtitle" />
 </div>
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=1&pause=99999&color=00F760&center=true&vCenter=true&width=940&lines=GitHub+Metrics" alt="Metrics Title" />
 </div>
+
+![Metrics](./github-metrics.svg)
+
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JamshedAli18&theme=dark&t=20250710"/> -->
+
 
 
 
 ---
 
 
-<!-- # 📈 GitHub Stats:
-
-  <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=JamshedAli18&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=JamshedAli18&theme=github_dark&hide_border=false" /></td>
-  </tr>
-</table> -->
-
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamshedAli18&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
-
-<!--  ![Jamshed Ali's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JamshedAli18&custom_title=Jamshed%20Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2E8B57&line=2E8B57&point=2E8B57&area_color=FFFFFF&title_color=2E8B57&area=true) -->
 
 
 
