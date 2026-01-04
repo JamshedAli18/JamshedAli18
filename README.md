@@ -18,7 +18,9 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 </a> -->
 <div align="center">
 
-# Jamshed Ali
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=00F760&center=true&vCenter=true&width=940&lines=JAMSHED+ALI"alt="Title" />
+</div>
 
 <span style="color:#00F760">**`AI Engineer (Focused on Gen AI & And Agentic AI)`**</span>
 
