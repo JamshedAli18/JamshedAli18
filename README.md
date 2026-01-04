@@ -20,7 +20,7 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 
 # Jamshed Ali
 
-<span style="color:#00F760">**AI Engineer (Generative AI & Agentic AI)**</span>
+<span style="color:#00F760">**`AI Engineer (Focused on Gen AI & And Agentic AI)`**</span>
 
 ### About Me
 
