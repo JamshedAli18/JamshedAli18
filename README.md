@@ -28,9 +28,7 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 
 *An AI Engineer focused on **Generative AI** and **Agentic AI**, building intelligent systems that combine creativity with autonomous decision-making. I specialize in developing innovative AI solutions using modern frameworks and techniques.*
 
-<a href="https://github.com/Jamshedali18?tab=followers">
-  <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/Jamshedali18?color=00E676&labelColor=00C853&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
+
 <a href="https://github.com/Jamshedali18?tab=repositories&sort=stargazers">
   <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/Jamshedali18?color=4CAF50&style=for-the-badge&labelColor=2E7D32&logo=star&logoColor=white"/>
 </a>
