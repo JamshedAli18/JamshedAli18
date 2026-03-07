@@ -61,10 +61,9 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=00F760&center=true&vCenter=true&width=940&lines=AI+%26+Machine+Learning+Frameworks"alt="Title" />
 
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
-  <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" />
+  
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="48" height="48" />
-  <img src="https://www.anthropic.com/images/icons/safari-pinned-tab.svg" width="48" height="48" />
+
   <br/>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,kubernetes&theme=dark" />
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" />
