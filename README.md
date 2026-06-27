@@ -1,6 +1,6 @@
 <!--#  Jamshed Ali 
   
-**`AI Engineer (Focused on Gen AI & Agentic AI)`**
+**`AI Engineer (Focused on Gen AI and Agentic AI)`**
   
 An AI Engineer focused on Generative AI and Agentic AI, building intelligent systems that combine creativity with autonomous decision-making. I specialize in developing innovative AI solutions using modern frameworks and techniques.
  
@@ -22,7 +22,7 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=00F760&center=true&vCenter=true&width=940&lines=JAMSHED+ALI"alt="Title" />
 </div>
 
-<span style="color:#00F760">**`AI Engineer (Focused on Gen AI & And Agentic AI)`**</span>
+<span style="color:#00F760">**`AI Engineer (Focused on Gen AI & Agentic AI)`**</span>
 
 ### About Me
 
