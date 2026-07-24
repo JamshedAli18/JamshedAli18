@@ -40,6 +40,65 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 
 ---
 
+### Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**AI / Agentic Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-7C4DFF?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-5C3BFE?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-311B92?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-7C4DFF?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+**ML / DL Libraries**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-5C3BFE?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-311B92?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-7C4DFF?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/EfficientNet%20%2F%20YOLO-5C3BFE?style=for-the-badge&logoColor=white"/>
+
+**Retrieval & Vector Stores**
+<br/>
+<img src="https://img.shields.io/badge/Pinecone-7C4DFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-5C3BFE?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PGVector-311B92?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cohere-7C4DFF?style=for-the-badge&logoColor=white"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Voice / Real-Time AI**
+<br/>
+<img src="https://img.shields.io/badge/Deepgram-5C3BFE?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cartesia-311B92?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-7C4DFF?style=for-the-badge&logoColor=white"/>
+
+**Web Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/React-5C3BFE?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-311B92?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-7C4DFF?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-5C3BFE?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-311B92?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+**Deployment / DevOps**
+<br/>
+<img src="https://img.shields.io/badge/Docker-7C4DFF?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-5C3BFE?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-311B92?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-5C3BFE?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
 
 <!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
