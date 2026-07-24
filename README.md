@@ -18,7 +18,9 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 </a> -->
 <div align="center">
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=2563EB&center=true&vCenter=true&width=940&lines=JAMSHED+ALI" alt="Title" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=1&pause=99999&color=2563EB&center=true&vCenter=true&width=940&lines=JAMSHED+ALI" alt="Title" />
+  </h1>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/AI%20Full%20Stack%20Engineer%20%E2%80%A2%20Generative%20AI%20%26%20Agentic%20Systems-2563EB?style=for-the-badge&labelColor=1E293B" alt="Title Badge"/>
