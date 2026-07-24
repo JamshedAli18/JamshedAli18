@@ -18,9 +18,9 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 </a> -->
 <div align="center">
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=1&pause=99999&color=2563EB&center=true&vCenter=true&width=940&lines=JAMSHED+ALI" alt="Title" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=99999&color=94A3B8&center=true&vCenter=true&width=940&lines=AI+Full+Stack+Engineer" alt="Subtitle" />
+  <h1 align="center" style="font-family: 'JetBrains Mono', monospace; font-weight: 800; letter-spacing: 4px; color: #2563EB;">
+    JAMSHED ALI
+  </h1>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/AI%20Full%20Stack%20Engineer%20%E2%80%A2%20Generative%20AI%20%26%20Agentic%20Systems-2563EB?style=for-the-badge&labelColor=1E293B" alt="Title Badge"/>
