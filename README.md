@@ -110,51 +110,20 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 </tr>
 </table>
 
-<!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
-<img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> -->
-
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=00F760&center=true&vCenter=true&width=940&lines=AI+%26+Machine+Learning+Frameworks"alt="Title" />
-
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
-  
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" />
-
-  <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,kubernetes&theme=dark" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,mongodb,postgres,redis&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda,linux&theme=dark" />
-</div>
-
-<br /> -->
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=7C4DFF&center=true&vCenter=true&width=940&lines=GitHub+Contributions" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=2563EB&center=true&vCenter=true&width=940&lines=GitHub+Contributions" alt="Title" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=5C3BFE&center=true&vCenter=true&width=940&lines=Isometric+view+of+contributions" alt="Subtitle" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=0891B2&center=true&vCenter=true&width=940&lines=Isometric+view+of+contributions" alt="Subtitle" />
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=7C4DFF&center=true&vCenter=true&width=940&lines=GitHub+Metrics" alt="Metrics Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=2563EB&center=true&vCenter=true&width=940&lines=GitHub+Metrics" alt="Metrics Title" />
 
 ![Metrics](./github-metrics.svg)
   
