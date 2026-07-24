@@ -23,7 +23,7 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 <span style="color:#7C4DFF">**`AI Engineer • Generative AI & Agentic Systems`**</span>
 
 ### About Me
-*I design and ship autonomous AI systems that reason, retrieve, and act — not just generate text. My work sits at the intersection of RAG pipelines, multi-agent orchestration, and real-time voice interfaces, turning research-grade AI concepts into products people can actually use.*
+*I design and ship autonomous AI systems that reason, retrieve, and act — not just generate text. My work spans RAG pipelines, multi-agent orchestration, and real-time voice interfaces, backed by end-to-end deployment across Docker, AWS, Render, and FastAPI.*
 
 <a href="https://github.com/Jamshedali18?tab=repositories&sort=stargazers">
   <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/Jamshedali18?color=7C4DFF&style=for-the-badge&labelColor=311B92&logo=star&logoColor=white"/>
