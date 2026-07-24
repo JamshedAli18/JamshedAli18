@@ -20,7 +20,7 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=7C4DFF&center=true&vCenter=true&width=940&lines=JAMSHED+ALI" alt="Title" />
 </div>
-<span style="color:#7C4DFF">**`AI Engineer • Generative AI & Agentic Systems`**</span>
+<span style="color:#7C4DFF">**AI Engineer • Generative AI & Agentic Systems**</span>
 
 ### About Me
 *I design and ship autonomous AI systems that reason, retrieve, and act — not just generate text. My work spans RAG pipelines, multi-agent orchestration, and real-time voice interfaces, backed by end-to-end deployment across Docker, AWS, Render, and FastAPI.*
@@ -73,9 +73,9 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=1&pause=99999&color=00F760&center=true&vCenter=true&width=940&lines=GitHub+Contributions" alt="Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1&pause=99999&color=7C4DFF&center=true&vCenter=true&width=940&lines=GitHub+Contributions" alt="Title" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=4CAF50&center=true&vCenter=true&width=940&lines=Isometric+view+of+contributions" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=5C3BFE&center=true&vCenter=true&width=940&lines=Isometric+view+of+contributions" alt="Subtitle" />
 </div>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
