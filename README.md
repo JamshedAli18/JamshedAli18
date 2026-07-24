@@ -41,34 +41,74 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=99999&color=7C4DFF&center=true&vCenter=true&width=940&lines=Tech+Stack" alt="Tech Stack Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=7C4DFF&center=true&vCenter=true&width=940&lines=Tech+Stack" alt="Tech Stack Title" />
 </div>
 
-<div align="center">
-
-**LLM Providers**
-<img src="https://img.shields.io/badge/Anthropic-7C4DFF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-5C3BFE?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-311B92?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-7C4DFF?style=flat-square&logo=googlegemini&logoColor=white"/>
-
-**AI / Agentic Frameworks**
-<img src="https://img.shields.io/badge/LangChain-7C4DFF?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-5C3BFE?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-311B92?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-7C4DFF?style=flat-square&logo=n8n&logoColor=white"/>
-
-**ML / DL Libraries**
-<img src="https://img.shields.io/badge/PyTorch-5C3BFE?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-311B92?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-7C4DFF?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/EfficientNet%20%2F%20YOLO-5C3BFE?style=flat-square&logoColor=white"/>
-
-**Retrieval & Vector Stores**
-<img src="https://img.shields.io/badge/Pinecone-311B92?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-7C4DFF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/PGVector-5C3BFE?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Cohere-311B92?style=flat-square&logoColor=white"/>
-
-**Voice / Real-Time AI**
-<img src="https://img.shields.io/badge/Deepgram-7C4DFF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Cartesia-5C3BFE?style=flat-square&logoColor=white"/>
-
-**Web & Backend**
-<img src="https://img.shields.io/badge/React-311B92?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-7C4DFF?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-5C3BFE?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Python-311B92?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB%20Atlas-7C4DFF?style=flat-square&logo=mongodb&logoColor=white"/>
-
-**Deployment / DevOps**
-<img src="https://img.shields.io/badge/Docker-5C3BFE?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-311B92?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Render-7C4DFF?style=flat-square&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-5C3BFE?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-311B92?style=flat-square&logo=githubactions&logoColor=white"/>
-
-</div>
-
+<table align="center">
+<tr>
+<td align="right"><b>LLM Providers</b></td>
+<td>
+<img src="https://img.shields.io/badge/Anthropic-7C4DFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-5C3BFE?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-311B92?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-7C4DFF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>AI / Agentic Frameworks</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-7C4DFF?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-5C3BFE?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-311B92?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-7C4DFF?style=for-the-badge&logo=n8n&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>ML / DL Libraries</b></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-5C3BFE?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-311B92?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-7C4DFF?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/EfficientNet%20%2F%20YOLO-5C3BFE?style=for-the-badge&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Retrieval & Vector Stores</b></td>
+<td>
+<img src="https://img.shields.io/badge/Pinecone-311B92?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-7C4DFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PGVector-5C3BFE?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cohere-311B92?style=for-the-badge&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Voice / Real-Time AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/Deepgram-7C4DFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cartesia-5C3BFE?style=for-the-badge&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Web & Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-311B92?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-7C4DFF?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-5C3BFE?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-311B92?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-7C4DFF?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Deployment / DevOps</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-5C3BFE?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-311B92?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-7C4DFF?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-5C3BFE?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-311B92?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 <!-- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
