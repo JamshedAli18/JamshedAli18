@@ -17,28 +17,23 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a> -->
 <div align="center">
-
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=00F760&center=true&vCenter=true&width=940&lines=JAMSHED+ALI"alt="Title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=7C4DFF&center=true&vCenter=true&width=940&lines=JAMSHED+ALI" alt="Title" />
 </div>
-
-<span style="color:#00F760">**`AI Engineer (Focused on Gen AI & Agentic AI)`**</span>
+<span style="color:#7C4DFF">**`AI Engineer • Generative AI & Agentic Systems`**</span>
 
 ### About Me
-
-*An AI Engineer focused on **Generative AI** and **Agentic AI**, building intelligent systems that combine creativity with autonomous decision-making. I specialize in developing innovative AI solutions using modern frameworks and techniques.*
-
+*I design and ship autonomous AI systems that reason, retrieve, and act — not just generate text. My work sits at the intersection of RAG pipelines, multi-agent orchestration, and real-time voice interfaces, turning research-grade AI concepts into products people can actually use.*
 
 <a href="https://github.com/Jamshedali18?tab=repositories&sort=stargazers">
-  <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/Jamshedali18?color=4CAF50&style=for-the-badge&labelColor=2E7D32&logo=star&logoColor=white"/>
+  <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/Jamshedali18?color=7C4DFF&style=for-the-badge&labelColor=311B92&logo=star&logoColor=white"/>
 </a>
 <a href="https://www.kaggle.com/jamsheddf">
-  <img src="https://img.shields.io/badge/Kaggle-00C853?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Kaggle-5C3BFE?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 <a href="https://www.linkedin.com/in/jamshed-ali-559641255">
-  <img src="https://img.shields.io/badge/LinkedIn-66BB6A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7C4DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 </div>
 
 ---
