@@ -18,7 +18,7 @@ An AI Engineer focused on Generative AI and Agentic AI, building intelligent sys
 </a> -->
 <div align="center">
 <div align="center">
-  <h1 align="center" style="font-family: 'JetBrains Mono', monospace; font-weight: 800; letter-spacing: 4px; color: #2563EB;">
+  <h1 align="center" style="font-family: 'JetBrains Mono', monospace; font-weight: 800; letter-spacing: 10px; color: #2563EB;">
     JAMSHED ALI
   </h1>
 </div>
